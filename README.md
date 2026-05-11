@@ -109,10 +109,11 @@ SQL queries used for:
 
 ## Insights Generated
 
-* Most students achieved Grade B
-* Reading scores were higher than math scores
-* Female students performed better in reading
-* Students completing test preparation performed better overall
+ * Total Students Analyzed: 1K
+ * Average Student Marks: 67.77
+ * Pass percentage is significantly higher than fail percentage
+ * Reading and writing scores are slightly higher than math scores
+ * Female students showed slightly higher average performance compared to male students
 
 ---
 
