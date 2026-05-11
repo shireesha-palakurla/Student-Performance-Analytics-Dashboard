@@ -1,5 +1,7 @@
 # Student-Performance-Analytics-Dashboard
 
+<img width="1143" height="648" alt="Screenshot 2026-05-11 182954" src="https://github.com/user-attachments/assets/c5c21115-28b2-45a2-ab73-26e7aa267eb4" />
+
 ## Overview
 
 This project analyzes student academic performance using **Excel, MySQL, SQL, and Power BI**.
